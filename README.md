@@ -32,7 +32,7 @@ This project is a responsive coffee shop website built using HTML and CSS. The w
 
 ## Screenshots
 Include screenshots of the website on different devices to demonstrate its responsiveness.
-
+![image](https://github.com/user-attachments/assets/7310234e-c18c-49a6-ad73-49bbf94871f1)
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
