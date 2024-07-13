@@ -18,7 +18,7 @@ This project is a responsive coffee shop website built using HTML and CSS. The w
 ## Installation
 1. Clone the repository: 
    \`\`\`bash
-   git clone https://github.com/your-username/coffee-shop-website.git
+   git clone https://github.com/Ramendra777/Responsive-Coffee-Shop.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`bash
